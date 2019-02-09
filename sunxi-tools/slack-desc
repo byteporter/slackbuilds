@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+           |-----handy-ruler------------------------------------------------------|
+sunxi-tools: sunxi-tools (CLI tools for ARM devices with Allwinner SoCs)
+sunxi-tools:
+sunxi-tools: Provides the tools sunxi-fexc, bin2fex, fex2bin, sunxi-fel, fel-gpio,
+sunxi-tools: fel-sdboot, uart0-helloworld-sdboot, fel-pio, sunxi-pio,
+sunxi-tools: sunxi-nand-part, sunxi-nand-image-builder, jtag-loop.sunxi,
+sunxi-tools: sunxi-bootinfo, phoenix_info, sunxi-meminfo,
+sunxi-tools: and sunxi-script_extractor.
+sunxi-tools:
+sunxi-tools: Homepage: http://linux-sunxi.org/
+sunxi-tools:
+sunxi-tools:
