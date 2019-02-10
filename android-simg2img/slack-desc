@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+                |-----handy-ruler------------------------------------------------------|
+android-simg2img: android-simg2img (Tools for converting Android sparse images)
+android-simg2img:
+android-simg2img: Provides tools to create or extract Android sparse images used by
+android-simg2img: the fastboot tool for loading filesystem images onto Android devices
+android-simg2img: and certain SoCs. Installs simg2img, simg2simg, img2simg, and
+android-simg2img: append2simg binaries.
+android-simg2img:
+android-simg2img: GitHub Repo: https://github.com/anestisb/android-simg2img
+android-simg2img:
+android-simg2img:
+android-simg2img:

@@ -1,3 +1,5 @@
 sunxi-tools.SBo.tar.gz
 sunxi-tools/*.tar.gz
 sunxi-tools/*/
+android-simg2img/*/
+android-simg2img/*.tar.gz
