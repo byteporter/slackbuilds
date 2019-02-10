@@ -70,7 +70,7 @@ find -L . \
  \( -perm 666 -o -perm 664 -o -perm 640 -o -perm 600 -o -perm 444 \
   -o -perm 440 -o -perm 400 \) -exec chmod 644 {} \;
 
-sed "s/\/lib/\/lib${LIBDIRSUFFIX}/" -i Makefile
+sed "s/\/lib/\/lib${LIBDIRSUFFIX}/g" -i Makefile
 make CFLAGS="$SLKCFLAGS"
 make install PREFIX=$PKG/usr CFLAGS="$SLKCFLAGS"
 
