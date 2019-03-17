@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+       |-----handy-ruler------------------------------------------------------|
+rtl8723bs: rtl8723bs (driver for RTL8723bs Wifi adapter)
+rtl8723bs:
+rtl8723bs: This is the driver for the Realtek 8723bs Wifi adapter. This driver
+rtl8723bs: is in the linux kernel source code in staging but is not enabled in
+rtl8723bs: the standard Slackware kernel for ARM, though it seems to be in the
+rtl8723bs: x86 version.
+rtl8723bs:
+rtl8723bs:
+rtl8723bs:
+rtl8723bs:
+rtl8723bs:
