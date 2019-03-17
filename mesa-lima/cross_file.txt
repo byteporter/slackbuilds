@@ -1,0 +1,6 @@
+[binaries]
+c = '/usr/bin/arm-slackware-linux-gnueabihf-gcc'
+cpp = '/usr/bin/arm-slackware-linux-gnueabihf-g++'
+ar = '/usr/bin/arm-slackware-linux-gnueabihf-ar'
+strip = '/usr/bin/arm-slackware-linux-gnueabihf-strip'
+pkgconfig = 'PKG_CONFIG_SYSROOT_DIR=/data/chroot/slackware-arm/current /usr/bin/pkg-config'
